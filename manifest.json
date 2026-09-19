@@ -1,6 +1,6 @@
 {
-    "name": "MONITORING",
-    "short_name": "MONITORING",
+    "name": "Monitoring",
+    "short_name": "Monitoring",
     "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#ffffff",
